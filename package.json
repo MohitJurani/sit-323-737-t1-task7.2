@@ -1,0 +1,27 @@
+{
+  "name": "task4.1",
+  "version": "1.0.0",
+  "description": "Microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohitJurani/sit323_sit737-2023-t1-task7.2.git"
+  },
+  "author": "Mohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohitJurani/sit323_sit737-2023-t1-task5.1/issues"
+  },
+  "homepage": "https://github.com/MohitJurani/sit323_sit737-2023-t1-task5.1#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.6.0",
+    "parser": "^0.1.4",
+    "winston": "^3.8.2"
+  }
+}

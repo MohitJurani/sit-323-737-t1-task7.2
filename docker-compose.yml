@@ -1,0 +1,13 @@
+version: "3"
+services:
+  web:
+    build: .
+    command: bash -c "ls && npm install && node server.js"
+    image: updatedcalculator
+    ports: 
+      - "3000:3000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
