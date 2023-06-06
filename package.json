@@ -13,9 +13,9 @@
   "author": "Mohit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MohitJurani/sit323_sit737-2023-t1-task5.1/issues"
+    "url": "https://github.com/MohitJurani/sit323_sit737-2023-t1-task7.2/issues"
   },
-  "homepage": "https://github.com/MohitJurani/sit323_sit737-2023-t1-task5.1#readme",
+  "homepage": "https://github.com/MohitJurani/sit323_sit737-2023-t1-task7.2#readme",
   "dependencies": {
     "body": "^5.1.0",
     "express": "^4.18.2",
